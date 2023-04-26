@@ -1,7 +1,7 @@
 <x-app-layout>
     <div class="col-12" style="height: calc(100vh - 56px);">
         <div class="row p-5">
-            <h2>Meal planning</h2>
+            <h2>Meal planning:</h2>
             <div class="col-4">
                 <div class="list-group" id="list-tab" role="tablist">
                     <a class="list-group-item list-group-item-action active" id="list-meal1-list" data-bs-toggle="list"
